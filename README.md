@@ -1,5 +1,3 @@
-# flutter_application_300
-
 A new Flutter project.
 
 ## Getting Started
